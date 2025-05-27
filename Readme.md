@@ -43,3 +43,8 @@
 ## Usage
 
 - Edit the files as needed to customize your environment.
+
+## Thanks to:
+- LGU2GZ for komorebi and tutorials
+- ![this youtube video](https://youtu.be/dBsAM7Fi1sU?si=Q_5OpWzzDSWJNWig)
+- And every softwares devs and tutorials online.
